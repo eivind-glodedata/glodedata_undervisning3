@@ -1,0 +1,14 @@
+
+/*CSS selector -- element vi vil modifisere
+CSS declaration {} identifiserer hvor vi skriver koden for modifisering
+CSS rule + key*/
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    border: 3px black solid;
+}
